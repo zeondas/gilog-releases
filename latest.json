@@ -1,0 +1,11 @@
+{
+  "version": "0.149.0",
+  "notes": "기록 0.149.0 (build-187)",
+  "pub_date": "2026-11-27T19:25:52.620Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkRMWVN6TXNtY0ZKM1lOR2xuSWNmejRYRUVxNjRSMmswVVlvUFR5Q1E3bi8zakNyRDY3UzNHMnYvbWpKaTk2QUtKMit1NndheUZpL2tLeHMxR1c0RXh5QUF4dE5lRlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA3NTUyCWZpbGU6Z2lMb2dfMC4xNDkuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNDkuMApmeHRzRUsxQWN1U2F6NlhtMVNCM2l3TGxDRnBXOVRnMGUrUW5vMTJ4bUVwNmpCR21Sam5TbmpOU2NPR1RnTC9CQjdtckphdkYzcXR1UXZRS1FiNGtBdz09Cg==",
+      "url": "https://zeondas.github.io/gilog-releases/giLog_0.149.0_x64-setup.exe"
+    }
+  }
+}
